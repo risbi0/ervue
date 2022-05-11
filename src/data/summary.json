@@ -1,0 +1,298 @@
+[
+    {
+        "summary": "Damage Dealt",
+        "signets": [
+            "First, No Betrayal",
+            "Recitatif of Eden",
+            "Blooming Like Flowers",
+            "Long trip",
+            "Worldy Troubles",
+            "Blade, Grave, and Scar",
+            "Goblet of the Giver",
+            "Rodent [V]",
+            "Dead [X]",
+            "Motto of Meow",
+            "Bountiful Blossom: Botan",
+            "Motto of Pubbe-Nivasanussati"
+        ]
+    },
+    {
+        "summary": "Damage Taken",
+        "signets": [
+            "Second, No Deception",
+            "Recitatif of Birds",
+            "Lost and Found",
+            "Letter, Maniac, and Ravings",
+            "Silent [B]",
+            "Motto of Dibba-Sota"
+        ]
+    },
+    {
+        "summary": "Physical & Elemental Damage",
+        "signets": [
+            "Recitatif of Creeks",
+            "Black & Dark",
+            "Bone, Blood, and Ribbon",
+            "Back-Curled Tail"
+        ]
+    },
+    {
+        "summary": "Physical Damage",
+        "signets": [
+            "Days Gone",
+            "Pendant of the Watcher"
+        ]
+    },
+    {
+        "summary": "Elemental Damage",
+        "signets": [
+            "Dark Garb No More",
+            "Brand of the Undead"
+        ]
+    },
+    {
+        "summary": "Physical & Elemental Breach",
+        "signets": [
+            "Burning Like Flames",
+            "Homeland and Friends",
+            "This Is Now Where We Die"
+        ]
+    },
+    {
+        "summary": "Physical Breach",
+        "signets": [
+            "No One to Share",
+            "Mask of the Predator"
+        ]
+    },
+    {
+        "summary": "Elemental Breach",
+        "signets": [
+            "Old Dreams Again",
+            "Artifact of the Inhibitor"
+        ]
+    },
+    {
+        "summary": "Damage Taken By Enemies",
+        "signets": [
+            "Sixth, No Decadence",
+            "Aria of Soil",
+            "Aria of Life",
+            "Red & Hot",
+            "Yellow & Warm",
+            "Desireless, Mindless, and Homeless",
+            "Truimph of the Deliverer",
+            "Entwined [P]",
+            "Bountiful Blossom: Koyo",
+            "Motto of Dibba-Cakkhu",
+            "Dictum of Anatman"
+        ]
+    },
+    {
+        "summary": "SP Recovery",
+        "signets": [
+            "Third, No Brutality",
+            "Recitatif of Fruit Trees",
+            "Recitatif of Good Wine",
+            "Aria of Life",
+            "Echo of Withered Soil",
+            "White & Bright",
+            "God, Me, and the Only",
+            "Rochet of the Pilgrim",
+            "Bountiful Blossom: Ayame",
+            "Motto of Ceto-Pariya-Nana"
+        ]
+    },
+    {
+        "summary": "Lightning Damage",
+        "signets": [
+            "Aria of Dawn",
+            "Echo of Silent Night"
+        ]
+    },
+    {
+        "summary": "Reduce Enemy Damage and Movement",
+        "signets": "Blue & Cold"
+    },
+    {
+        "summary": "Longer Taint",
+        "signets": "Grey & Empty"
+    },
+    {
+        "summary": "Bonnus Damage",
+        "signets": [
+            "Stretching Like Leaves",
+            "Body, Bones, Heart , and Soul",
+            "Dictum of Anitya"
+        ]
+    },
+    {
+        "summary": "Fire Damage",
+        "signets": "Burden, Difficulty, and Calamity"
+    },
+    {
+        "summary": "Additional Initial Stack of Soldier's Resolve",
+        "signets": "Fleeting Fantasy"
+    },
+    {
+        "summary": "Bonus Resolve Stack per Second to Normal Signets",
+        "signets": "Fallen Flowers"
+    },
+    {
+        "summary": "Increase Normal Signet Cap Increased",
+        "signets": [
+            "Forgotten and Forsaken",
+            "Broken Dream"
+        ]
+    },
+    {
+        "summary": "Extends Incincibility From Soldier's Remembrance",
+        "signets": "Go with the Flow"
+    },
+    {
+        "summary": "Max HP Increase",
+        "signets": "Path, Misfortune, and Written Fate"
+    },
+    {
+        "summary": "Recharges Blood Boil ",
+        "signets": "Inhuman, Unevil, and Ungodly"
+    },
+    {
+        "summary": "More Blood Boil Damage",
+        "signets": "Man, Mask, and Contract"
+    },
+    {
+        "summary": "Bloodboil Armor Absorb Damage",
+        "signets": "Death, Life, Oblivion, and Existence"
+    },
+    {
+        "summary": "Total Damage Increase in Burst Mode",
+        "signets": "Flock of the Deliverer"
+    },
+    {
+        "summary": "Normal Signets Increased Buff",
+        "signets": [
+            "Crusade of the Deliverer",
+            "Dream of the Deliverer"
+        ]
+    },
+    {
+        "summary": "Final Battle and Normal Signet Duration Extended",
+        "signets": "Echo of the Deliverer"
+    },
+    {
+        "summary": "Total Damage Increase in Ultimate or Burst Mode Hit",
+        "signets": "Resolve of the Deliverer"
+    },
+    {
+        "summary": "Entity Damage Dealt",
+        "signets": "Lip Poison [E]"
+    },
+    {
+        "summary": "Elf Ultimate and Support Valk Support Skill Reduced CD",
+        "signets": [
+            "Lodging [C]",
+            "Unknown [X]"
+        ]
+    },
+    {
+        "summary": "Elf SP Recovery",
+        "signets": "Dark Pupil"
+    },
+    {
+        "summary": "Mind Sync Duration Extended",
+        "signets": "Newborn [X]"
+    },
+    {
+        "summary": "HP and SP Cap",
+        "signets": "Neighborhood Chatters"
+    },
+    {
+        "summary": "HP and SP Recovery",
+        "signets": "Flexible P&C"
+    },
+    {
+        "summary": "Shiny Silver Increase Each Floor",
+        "signets": "Merchant's Philosophy"
+    },
+    {
+        "summary": "Shiny Silver Each Kill ",
+        "signets": "Shiny & Valuable"
+    },
+    {
+        "summary": "Ultimate Evasion Trigger Bonus Damage",
+        "signets": "Improvised Drama"
+    },
+    {
+        "summary": "Ultimate Trigger Bonus Damage",
+        "signets": "Setsuna Paw"
+    },
+    {
+        "summary": "Attack Speed & Move Speed",
+        "signets": "Bountiful Blossom: Ume"
+    },
+    {
+        "summary": "Ultimate Evasion Reset CD",
+        "signets": "Bountiful Blossom: Kiku"
+    },
+    {
+        "summary": "Ultimate Evasion 1 More Charge and Reduced CD",
+        "signets": "Bountiful Blossom: Fuji"
+    },
+    {
+        "summary": "Sakura Screen Resets Ultimate and Weapon CD",
+        "signets": "Setsuna Blade: Ame-Shiko"
+    },
+    {
+        "summary": "Ice Damage",
+        "signets": [
+            "Setsuna Blade: Tsukimi-de Ippai",
+            "Setsuna Blade: Shinra Bansho",
+            "Setsuna Blade: Mumyo"
+        ]
+    },
+    {
+        "summary": "Sakura Screen Pause Duration",
+        "signets": "Setsuna Blade: Ino-Shika-Cho"
+    },
+    {
+        "summary": "Reduce Ultimate Evasion Remaining CD",
+        "signets": "Setsuna Blade: Mugenjigoku"
+    },
+    {
+        "summary": "Combo Increased to 60 When Below 60",
+        "signets": "Motto of Iddhi-Vidha"
+    },
+    {
+        "summary": "25 Bonus Combo",
+        "signets": "Motto of Asavakkhaya"
+    },
+    {
+        "summary": "Enemy Disable Shield Recovery",
+        "signets": "Maxim of Anitya"
+    },
+    {
+        "summary": "Reduce Enemy Damage",
+        "signets": "Maxim of Anatman"
+    },
+    {
+        "summary": "Bonus Damage to Shields",
+        "signets": "Maxim of Santam"
+    },
+    {
+        "summary": "3 Random Debuffs on Hit",
+        "signets": "Dictum of Santam"
+    },
+    {
+        "summary": "Initial and SP Cap Increased",
+        "signets": "Recitatif of Fine Jade"
+    },
+    {
+        "summary": "Increase Ultimate Physical & Elemental Damage",
+        "signets": "Fourth, No Insolence"
+    },
+    {
+        "summary": "Start With More Exhortation",
+        "signets": "Fifth, No Falsehood"
+    }
+]

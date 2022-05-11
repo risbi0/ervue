@@ -1,0 +1,1404 @@
+[
+    {
+        "name": "Argent Knight: Artemis",
+        "acr": "aka",
+        "rating": "Corruption",
+        "signets":  [
+            [
+                { "sname": "mobius", "series": "1" },
+                { "sname": "kevin", "series": "2" }
+            ],
+            [
+                { "sname": "eden", "series": "2" },
+                { "sname": "griseo", "series": "" },
+                { "sname": "su", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Forbidden Seed" ],
+            [ "Burden", "Because of You" ],
+            [ "Boundless Logos", "Home Lost" ]
+        ],
+        "support": [
+            [ [ "Azure Empyrea" ], [ "Azure Empyrea" ] ],
+            [ [ "Lightning Empress" ], [ "Haxxor Bunny" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Frost Scythe", "Start" ],
+                [ "Stellar Trials", "1st" ],
+                [ "Cold Moon", "2nd", "2" ],
+                [ "Winter Harvest" ],
+                [ "Uranian Mirror", "Reinforcement" ]
+            ],
+            [
+                [ "Mobius", "5", "Entwined [P]" ],
+                [ "Lip Poison [E]" ],
+                [ "Rodent [V]" ],
+                [ "Infinite [X] (Nexus)" ],
+                [ "Blooming Like Flowers" ],
+                [ "Kevin", "3", "Artifact of the Inhibitor" ],
+                [ "Rochet of the Pilgrim" ],
+                [ "Shadow of the Deliverer (Nexus)" ]
+            ],
+            [
+                [ "Eden", "3", "Recitatif of Creeks" ],
+                [ "Recitatif of Eden" ],
+                [ "Echo of Gold (Nexus)" ],
+                [ "Griseo", "5", "Black & Dark" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Shining Like Stars (Nexus)" ],
+                [ "Burning Like Flames" ],
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ]
+            ]
+        ],
+        "notes": "<p>Blessing of Starfire</p>1st priority if lower gear level.<br><br><p>Soldiers, Scissors, Spoils, and Slaughter (Nexus)</p>Can be picked by advanced players.<br><br><p>Old Dreams Again, Days Gone</p>Either pick <span>Days Gone</span> or enhance <span>Old Dreams Again</span><br><br><p>Eden</p>If nexus is unlocked, don't use ultimate.<br><br><p>Echo of Gold (Nexus)</p>For Lee Thales Lee users."
+    },
+    {
+        "name": "Bright Knight: Excelsis",
+        "acr": "bke",
+        "rating": "Abstinence",
+        "signets": [
+            [
+                { "sname": "sakura", "series": "1" },
+                { "sname": "kalpas", "series": "2" }
+            ],
+            [
+                { "sname": "griseo", "series": "" },
+                { "sname": "su", "series": "2" },
+                { "sname": "hua", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Forget-Me-Not", "Mad King's Mask" ],
+            [ "Forget-Me-Not", "Grey-scale Rainbow" ],
+            [ "Home Lost", "Stained Sakura" ]
+        ],
+        "support": [
+            [ [ "Valkyrie Chariot", "Divine Prayer" ], [ "Lightning Empress" ] ],
+            [ [ "Snowy Sniper" ], [ "Blood Rose" ] ] 
+        ],
+        "signetTable": [
+            [
+                [ "Gambit", "Start" ],
+                [ "Glory", "1st" ],
+                [ "Paragon", "2nd" ],
+                [ "Formation", "No", "2" ],
+                [ "Holy Lance" ]
+            ],
+            [
+                [ "Sakura", "3", "Bountiful Blossom: Koyo" ],
+                [ "Bountiful Blossom: Ume" ],
+                [ "Setsuna Blade: Sakura ni Maku (Nexus)" ],
+                [ "Kalpas", "4", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)" ],
+                [ "Homeland and Friends", "" ]
+            ],
+            [
+                [ "Griseo", "6", "Blue & Cold" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Grey & Empty" ],
+                [ "Shining Like Stars (Nexus)" ],
+                [ "Burning Like Flames" ],
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Hua", "2", "No One to Share" ],
+                [ "Suffering Mass (Nexus)" ]
+            ]
+        ],
+        "notes": "<p>Homeland and Friends</p>If lacking impair/breach."
+    },
+    {
+        "name": "Dea Anchora",
+        "acr": "da",
+        "rating": "Corruption",
+        "signets": [
+            [
+                 { "sname": "kevin", "series": "1" }
+            ],
+            [
+                { "sname": "eden", "series": "2" },
+                { "sname": "su", "series": "2" },
+                { "sname": "kalpas", "series": "2" },
+                { "sname": "griseo", "series": "" }
+            ]
+        ],
+        "emblem": [
+            [ "Burden" ],
+            [ "Gold Goblet", "Light as a Bodhi Leaf" ],
+            [ "Home Lost", "It Will Be Written" ]
+        ],
+        "support": [
+            [ [ "Azure Empyrea" ], [ "Lightning Empress" ] ],
+            [ [ "Azure Empyrea" ], [ "Blood Rose", "Midnight Absinthe" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Star", "Start" ],
+                [ "Sheen", "1st" ],
+                [ "Halo", "2nd", "2" ],
+                [ "Gale" ],
+                [ "Brilliance", "No" ]
+            ],
+            [
+                [ "Kevin", "4", "Artifact of the Inhibitor" ],
+                [ "Rochet of the Pilgrim" ],
+                [ "Blade of the Deliverer (Nexus)" ],
+                [ "Crusade of the Deliverer" ]
+            ],
+            [
+                [ "Eden", "5", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Recitatif of Birds",  "" ],
+                [ "Echo of Gold (Nexus)" ],
+                [ "Echo of Withered Soil" ],
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Kalpas", "4", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Letter, Maniac, and Ravings", "" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)" ],
+                [ "Griseo", "2", "Black & Dark" ],
+                [ "Yellow & Warm" ]
+            ]
+        ],
+        "notes": "<p>Letter, Maniac, and Ravings / Recitatif of Birds</p>When core is unlocked, choose either for damage reduction.<br><br><p>Griseo</p>Can also pick Aponia' enhanced signet <span>First, No Betrayal</span>.The priority of Aponia signets is the same as griseo."
+    },
+    {
+        "name": "Fallen Rosemary",
+        "acr": "fr",
+        "rating": "Corruption",
+        "signets": [
+            [
+                { "sname": "kevin", "series": "1" },
+                { "sname": "su", "series": "2" }
+            ],
+            [
+                { "sname": "eden", "series": "2" },
+                { "sname": "sakura", "series": "2" },
+                { "sname": "kalpas", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Burden" ],
+            [ "Gold Goblet", "Light as a Bodhi Leaf" ],
+            [ "Dreamful Gold", "Home Lost" ]
+        ],
+        "support": [
+            [ [ "Azure Empyrea" ], [ "Lightning Empress" ] ],
+            [ [ "Azure Empyrea" ], [ "Blood Rose", "Haxxor Bunny" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Nocturne", "Start" ],
+                [ "Battle Valfreyja", "1st", "2" ],
+                [ "Soul Siphon" ],
+                [ "God Eater", "2nd" ],
+                [ "Spirit Servants", "Reinforcement" ]
+            ],
+            [
+                [ "Kevin", "4", "Artifact of the Inhibitor" ],
+                [ "Rochet of the Pilgrim" ],
+                [ "Blade of the Deliverer (Nexus)" ],
+                [ "Echo of the Deliverer" ],
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ]
+            ],
+            [
+                [ "Eden", "5", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Echo of Gold (Nexus)" ],
+                [ "Echo of Silent Night" ],
+                [ "Echo of Withered Soil" ],
+                [ "Sakura", "2", "Bountiful Blossom: Koyo" ],
+                [ "Setsuna Blade: Yasha (Nexus)" ],
+                [ "Kalpas", "3", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)" ]
+            ]
+        ],
+        "notes": "<p>Kalpas</p>Griseo signets can also work with <span>Grey & Empty</span>, <span>Red & Hot</span>, and <span>Yellow & Warm</span>."
+    },
+    {
+        "name": "Herrscher of Flamescion",
+        "acr": "hofs",
+        "rating": "Corruption",
+        "signets": [
+            [
+                { "sname": "kalpas", "series": "1" },
+                { "sname": "hua", "series": "2" }
+            ],
+            [
+                { "sname": "sakura", "series": "1" },
+                { "sname": "su", "series": "2" },
+                { "sname": "eden", "series": "1" }
+            ]
+        ],
+        "emblem": [
+            [ "Mad King's Mask" ],
+            [ "Because of You", "Memory" ],
+            [ "Home Lost", "Stained sakura" ]
+        ],
+        "support": [
+            [ [ "Azure Empyrea" ], [ "Blood Rose" ] ],
+            [ [ "Azure Empyrea" ], [ "Blood Rose" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Heatflow", "Start" ],
+                [ "Reburn", "1st" ],
+                [ "Tempered Warrior", "2nd" ],
+                [ "Flamescion", "Filler", "2" ],
+                [ "Starfire" ]
+            ],
+            [
+                [ "Kalpas", "5", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Fight, Struggle, and Decimation (Nexus)" ],
+                [ "Inhuman, Unevil, and Ungodly" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)", "" ],
+                [ "Hua", "3", "Old Dreams Again", "" ],
+                [ "Suffering Mass (Nexus)" ],
+                [ "Broken Dream", "" ]
+            ],
+            [
+                [ "Sakura", "3", "Bountiful Blossom: Koyo" ],
+                [ "Bountiful Blossom: Ume" ],
+                [ "Setsuna Blade: Sakura ni Maku (Nexus)" ],
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Eden", "3", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Echo of Gold (Nexus)", "" ]
+            ]
+        ],
+        "notes": "<p>Blessing of Starfire</p>1st priority if lower gear level.<br><br><p>Soldiers, Scissors, Spoils, and Slaughter (Nexus)</p>Can be picked by advanced players.<br><br><p>Old Dreams Again, Go with the Flow</p>Either pick <span>Go with the Flow</span> or enhance <span>Old Dreams Again</span><br><br><p>Eden</p>If nexus is unlocked, don't use ultimate.<br><br><p>Echo of Gold (Nexus)</p>For Lee Thales Lee users."
+    },
+    {
+        "name": "Herrscher of Reason",
+        "acr": "hor",
+        "rating": "Corruption",
+        "signets": [
+            [
+                { "sname": "sakura", "series": "1" }
+            ],
+            [
+                { "sname": "eden", "series": "2" },
+                { "sname": "su", "series": "2" },
+                { "sname": "griseo", "series": "" }
+            ],
+            [
+                { "sname": "hua", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Memory" ],
+            [ "Because of You", "Forget-Me-Not" ],
+            [ "Home Lost", "Stained sakura" ]
+        ],
+        "support": [
+            [ [ "Azure Empyrea" ], [ "Lightning Empress" ] ],
+            [ [ "Azure Empyrea" ], [ "Haxxor Bunny", "Blood Rose" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Wisdom", "Start" ],
+                [ "Truth", "1st" ],
+                [ "Inspiration", "2nd", "2" ],
+                [ "Reason" ],
+                [ "Creation", "Filler" ]
+            ],
+            [
+                [ "Sakura", "4", "Bountiful Blossom: Koyo" ],
+                [ "Bountiful Blossom: Ume" ],
+                [ "Setsuna Blade: Sakura ni Maku (Nexus)" ],
+                [ "Setsuna Blade: Yasha (Nexus)", "" ]
+            ],
+            [
+                [ "Eden", "4", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Recitatif of Good Wine" ],
+                [ "Echo of Gold (Nexus)" ],
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Griseo", "5", "Grey & Empty" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Shining Like Stars (Nexus)", "" ],
+                [ "Burning Like Flames", "" ]
+            ],
+            [
+                [ "Hua", "4", "Dark Garb No More" ],
+                [ "Long trip" ],
+                [ "Old Dreams Again" ],
+                [ "Suffering Mass (Nexus)" ]
+            ]
+        ],
+        "notes": "If unable to get double signets on 4F, can consider double elysia and <span>Setsuna Blade: Sakura ni Maku (Nexus)</span>.<br><br><p>Setsuna Blade: Yasha (Nexus)</p>For SS and above rank users.<br><br><p>Shining Like Stars (Nexus), Burning Like Flames</p>If lacking breach."
+    },
+    {
+        "name": "Herrscher of Sentience",
+        "acr": "hos",
+        "rating": "Corruption",
+        "signets": [
+            [
+                { "sname": "su", "series": "2" }
+            ],
+            [
+                { "sname": "griseo", "series": "" },
+                { "sname": "kevin", "series": "2" },
+                { "sname": "kalpas", "series": "2" }
+            ],
+            [
+                { "sname": "eden", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Gold Goblet" ],
+            [ "Light as a Bodhi Leaf" ],
+            [ "Dreamful Gold", "Home Lost" ]
+        ],
+        "support": [
+            [ [ "Blood Rose" ], [ "Lightning Empress" ] ],
+            [ [ "Blood Rose" ], [ "Snowy Sniper" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Victory", "Start" ],
+                [ "Dark Plumes", "1st" ],
+                [ "Supremacy", "2nd" ],
+                [ "Legion", "Reinforcement" ],
+                [ "Ego", "No" ]
+            ],
+            [
+                [ "Su", "5", "Motto of Asavakkhaya", "" ],
+                [ "Motto of Ceto-Pariya-Nana" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Motto of Pubbe-Nivasanussati" ]
+            ],
+            [
+                [ "Griseo", "4", "Grey & Empty" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Shining Like Stars (Nexus)", "" ],
+                [ "Kevin", "3", "Goblet of the Giver" ],
+                [ "Pendant of the Watcher" ],
+                [ "Shadow of the Deliverer (Nexus)" ],
+                [ "Kalpas", "4", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)" ]
+            ],
+            [
+                [ "Eden", "3", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Echo of Gold (Nexus)" ]
+            ]
+        ],
+        "notes": "If there's no Normal Signet of Gold +2 stage effect, can pick Blessing of Victory, Blessing of Ego, and Infinity signet at start.<br><br><p>Motto of Asavakkhaya</p>Recommended to upgrade.<br><br><p>Shining Like Stars (Nexus)</p>If fighting agains 12F boss."
+    },
+    {
+        "name": "Herrscher of Thunder",
+        "acr": "hot",
+        "rating": "Corruption",
+        "signets": [
+            [
+                { "sname": "hua", "series": "2" }
+            ],
+            [
+                { "sname": "su", "series": "2" },
+                { "sname": "kalpas", "series": "2" },
+                { "sname": "pardofelis", "series": "" }
+            ],
+            [
+                { "sname": "eden", "series": "1" }
+            ]
+        ],
+        "emblem": [
+            [ "Gold Goblet" ],
+            [ "Light as a Bodhi Leaf", "Memory" ],
+            [ "Dreamful Gold", "Home Lost" ]
+        ],
+        "support": [
+            [ [ "Azure Empyrea" ], [ "Valkyrie Chariot" ] ],
+            [ [ "Azure Empyrea" ], [ "Blood Rose" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Hazy Moon", "Start" ],
+                [ "Tsukuyomi", "1st" ],
+                [ "Divine Penalty", "No", "3" ],
+                [ "Mitama" ],
+                [ "Narukami" ]
+            ],
+            [
+                [ "Hua", "2", "Old Dreams Again" ],
+                [ "Suffering Mass (Nexus)" ]
+            ],
+            [
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Kalpas", "3", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)" ],
+                [ "Pardofelis", "3", "Back-Curled Tail" ],
+                [ "Motto of Meow" ],
+                [ "Neighborhood Chatters" ]
+            ],
+            [
+                [ "Eden", "3", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Aria of Gold (Nexus)" ]
+            ]
+        ],
+        "notes": "<p>Pardofelis</p>After getting Kalpas and Eden signets, in late shop buy her signets listed above, and try to maintain 1k silver."
+    },
+    {
+        "name": "Infinite Ouroboros",
+        "acr": "mobius",
+        "rating": "Corruption",
+        "signets": [
+            [
+                { "sname": "mobius", "series": "1" },
+                { "sname": "hua", "series": "2" }
+            ],
+            [
+                { "sname": "sakura", "series": "1" },
+                { "sname": "griseo", "series": "" },
+                { "sname": "kalpas", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Forbidden Seed" ],
+            [ "Forget-Me-Not", "Memory" ],
+            [ "Home Lost", "Thorny Crown" ]
+        ],
+        "support": [
+            [ [ "Azure Empyrea" ], [ "Lightning Empress" ] ],
+            [ [ "Azure Empyrea" ], [ "Blood Rose" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Ascension", "Start", "2" ],
+                [ "Ill Fortune" ],
+                [ "Dark Assault", "1st" ],
+                [ "Ravenousness", "2nd" ],
+                [ "Mirage", "No" ]
+            ],
+            [
+                [ "Mobius", "2", "Infinite [X] (Nexus)" ],
+                [ "Blooming Like Flowers" ],
+                [ "Hua", "3", "Old Dreams Again", "" ],
+                [ "Suffering Mass (Nexus)" ],
+                [ "Broken Dream" ]
+            ],
+            [
+                [ "Sakura", "3", "Bountiful Blossom: Ayame" ],
+                [ "Bountiful Blossom: Koyo" ],
+                [ "Setsuna Blade: Sakura ni Maku (Nexus)" ],
+                [ "Griseo", "5", "Grey & Empty" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Shining Like Stars (Nexus)", "" ],
+                [ "Burning Like Flames", "" ],
+                [ "Kalpas", "3", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)" ]
+            ]
+        ],
+        "notes": "<p>Mobius</p>Don't pick <span>Burning Like Flames</span>.<br><br><p>Old Dreams Again</p>Recommended to upgrade.<br><br><p>Shining Like Stars (Nexus), Burning Like Flames</p>If lacking breach."
+    },
+    {
+        "name": "Luna Kindred",
+        "acr": "lk",
+        "rating": "Inferno",
+        "signets": [
+            [
+                { "sname": "kalpas", "series": "2" }
+            ],
+            [
+                { "sname": "mobius", "series": "1" },
+                { "sname": "su", "series": "2" },
+                { "sname": "aponia",  "series": "" }
+            ]
+        ],
+        "emblem": [
+            [ "Mad King's Mask" ],
+            [ "Forbidden Seed", "Light as a Bodhi Leaf" ],
+            [ "Boundless Logos", "Home Lost" ]
+        ],
+        "support": [
+            [ [ "Valkyrie Chariot" ], [ "Lightning Empress" ] ],
+            [ [ "Snowy Sniper" ], [ "Divine Prayer" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Penumbra", "Start" ],
+                [ "Blood Feast", "1st" ],
+                [ "Imprint", "2nd" ],
+                [ "Immortality", "No", "2" ],
+                [ "Thirst" ]
+            ],
+            [
+                [ "Kalpas", "6", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Desireless, Mindless, and Homeless" ],
+                [ "Path, Misfortune, and Written Fate", "" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)" ],
+                [ "Homeland and Friends" ]
+            ],
+            [
+                [ "mobius", "2", "Entwined [P]" ],
+                [ "Rodent [V]" ],
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Aponia", "3", "First, No Betrayal" ],
+                [ "Fourth, No Insolence" ],
+                [ "You Shall Be Subject to Numerous Disciplines (Nexus)" ]
+            ]
+        ],
+        "notes": "<p>Path, Misfortune, and Written Fate</p>Recommended to upgrade."
+    },
+    {
+        "name": "Midnight Absinthe",
+        "acr": "raven",
+        "rating": "Abstinence",
+        "signets": [
+            [
+                { "sname": "kevin", "series": "1" }
+            ],
+            [
+                { "sname": "eden", "series": "2" },
+                { "sname": "griseo", "series": "" },
+                { "sname": "su", "series": "2" },
+                { "sname": "kalpas", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Burden", "Gold Goblet" ],
+            [ "Gold Goblet", "Grey-scale Rainbow" ],
+            [ "Home Lost", "It Will Be Written" ] 
+        ],
+        "support": [
+            [ [ "Azure Empyrea" ], [ "Lightning Empress" ] ],
+            [ [ "Azure Empyrea" ], [ "Blood Rose" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Ominous Mist", "Start" ],
+                [ "Arrowhead", "1st" ],
+                [ "Wild Hunt", "2nd" ],
+                [ "Suppression", "Reinforcement" ],
+                [ "Raven Plume", "No" ]
+            ],
+            [
+                [ "Kevin", "3", "Artifact of the Inhibitor" ],
+                [ "Blade of the Deliverer (Nexus)" ],
+                [ "Crusade of the Deliverer" ]
+            ],
+            [
+                [ "Eden", "2", "Recitatif of Birds" ],
+                [ "Echo of Gold (Nexus)" ],
+                [ "Griseo", "5", "Grey & Empty" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Shining Like Stars (Nexus)", "" ],
+                [ "Burning Like Flames", "" ],
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Kalpas", "3", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)" ]
+            ]
+        ],
+        "notes": "If there' a Normal Signet of Gold +2 stage effect, start with Eden signets.<br><br><p>Shining Like Stars (Nexus), Burning Like Flames</p>If lacking breach."
+    },
+    {
+        "name": "Miss Pink Elf",
+        "acr": "elysia",
+        "rating": "Corruption",
+        "signets": [
+            [
+                { "sname": "su", "series": "2" },
+                { "sname": "kevin", "series": "2" }
+            ],
+            [
+                { "sname": "eden", "series": "2" },
+                { "sname": "griseo", "series": "" },
+                { "sname": "kalpas", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Light as a Bodhi Leaf" ],
+            [ "Burden", "Gold Goblet" ],
+            [ "Empty Like Shala", "Home Lost" ]
+        ],
+        "support": [
+            [ [ "Valkyrie Chariot" ], [ "Divine Prayer" ] ],
+            [ [ "Valkyrie Chariot" ], [ "Snowy Sniper" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Purity", "Start", "2" ],
+                [ "Zenith" ],
+                [ "Love", "1st" ],
+                [ "Beauty", "Reinforcement", "2" ],
+                [ "Benevolence" ]
+            ],
+            [
+                [ "Su", "5", "Motto of Asavakkhaya" ],
+                [ "Motto of Ceto-Pariya-Nana" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Motto of Pubbe-Nivasanussati" ],
+                [ "Kevin", "3", "Mask of the Predator" ],
+                [ "Shadow of the Deliverer (Nexus)" ],
+                [ "Truimph of the Deliverer" ]
+            ],
+            [
+                [ "Eden", "4", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Recitatif of Fine Jade" ],
+                [ "Echo of Gold (Nexus)" ],
+                [ "Griseo", "4", "Red & Hot" ],
+                [ "Shining Like Stars (Nexus)" ],
+                [ "Blooming Like Flowers" ],
+                [ "Burning Like Flames", "" ],
+                [ "Kalpas", "4", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)" ],
+                [ "Homeland and Friends", "" ]
+            ]
+        ],
+        "notes": "<p>Burning Like Flames</p>If lacking breach.<br><br><p>Soldiers, Scissors, Spoils, and Slaughter (Nexus)</p>Resurrect once at the start of each floor to activate the bonus.<br><br><p>Homeland and Friends</p>If not enough breach."
+    },
+    {
+        "name": "Palatinus Equinox",
+        "acr": "pe",
+        "rating": "Corruption",
+        "signets": [
+            [
+                { "sname": "sakura", "series": "1" }
+            ],
+            [
+                { "sname": "hua", "series": "2" },
+                { "sname": "su", "series": "2" },
+                { "sname": "eden", "series": "2" }
+            ],
+            [
+                { "sname": "kalpas", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Mad King's Mask" ],
+            [ "Forget-Me-Not" ],
+            [ "Home Lost", "Stained sakura" ]
+        ],
+        "support": [
+            [ [ "Valkyrie Chariot" ], [ "Divine Prayer" ] ],
+            [ [ "Snowy Sniper" ], [ "Blood Rose" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Gallop", "Start" ],
+                [ "Abyssal Chant", "1st" ],
+                [ "Equinox", "2nd" ],
+                [ "Commitment", "No", "2" ],
+                [ "Exodus" ]
+            ],
+            [
+                [ "Sakura", "3", "Bountiful Blossom: Koyo" ],
+                [ "Bountiful Blossom: Ume" ],
+                [ "Setsuna Blade: Sakura ni Maku (Nexus)" ]
+            ],
+            [
+                [ "Hua", "2", "Lost and Found" ],
+                [ "Suffering Mass (Nexus)" ],
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Eden", "3", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Echo of Gold (Nexus)" ]
+            ],
+            [
+                [ "Kalpas", "4", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)" ],
+                [ "Homeland and Friends" ]
+            ]
+        ]
+    },
+    {
+        "name": "Prinzessin der Verurteilung",
+        "acr": "fischl",
+        "rating": "Abstinence",
+        "signets": [
+            [
+                { "sname": "hua", "series": "2" },
+                { "sname": "mobius", "series": "1" }
+            ],
+            [
+                { "sname": "griseo", "series": "" },
+                { "sname": "su", "series": "2" },
+                { "sname": "kalpas", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Memory" ],
+            [ "Forbidden Seed", "Grey-scale Rainbow" ],
+            [ "Home Lost",  "The First Scale" ]
+        ],
+        "support": [
+            [ [ "Azure Empyrea" ], [ "Blood Rose" ] ],
+            [ [ "Azure Empyrea" ], [ "Blood Rose" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Retrtibution", "Start" ],
+                [ "Midnight", "1st" ],
+                [ "Fate", "2nd" ],
+                [ "Dark Wings", "No", "2" ],
+                [ "Nightfall" ]
+            ],
+            [
+                [ "Hua", "3", "Old Dreams Again" ],
+                [ "Suffering Mass (Nexus)" ],
+                [ "Broken Dream" ],
+                [ "Mobius", "2", "Entwined [P]" ],
+                [ "Rodent [V]" ]
+            ],
+            [
+                [ "Griseo", "5", "Black & Dark" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Shining Like Stars (Nexus)", "" ],
+                [ "Burning Like Flames", "" ],
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Kalpas", "3", "Blade, Grave, and Scar", "" ],
+                [ "Bone, Blood, and Ribbon", "" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)", "" ]
+            ]
+        ],
+        "notes": "<p>Shining Like Stars (Nexus), Burning Like Flames</p>If lacking breach.<br><br><p>Kalpas</p>Only pick his signets after 12F."
+    },
+    {
+        "name": "Reverist Calico",
+        "acr": "rc",
+        "rating": "Corruption",
+        "signets": [
+            [
+                { "sname": "eden", "series": "2" },
+                { "sname": "hua", "series": "2" }
+            ],
+            [
+                { "sname": "griseo", "series": "" },
+                { "sname": "su", "series": "1" },
+                { "sname": "pardofelis", "series": "" }
+            ]
+        ],
+        "emblem": [
+            [ "Gold Goblet" ],
+            [ "Grey-scale Rainbow", "Memory" ],
+            [  "Falling in Past Light", "Home Lost" ]
+        ],
+        "support": [
+            [ [ "Azure Empyrea" ], [ "Lightning Empress" ] ],
+            [ [ "Azure Empyrea" ], [ "Haxxor Bunny" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Cat's Eyes", "Start", "2" ],
+                [ "Battle Tailpiece" ],
+                [ "Hidden Claws", "1st" ],
+                [ "Phantasma", "2nd" ],
+                [ "Nighteye", "Reinforcement" ]
+            ],
+            [
+                [ "Eden", "8", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Recitatif of Fine Jade" ],
+                [ "Recitatif of Fruit Trees" ],
+                [ "Recitatif of Good Wine" ],
+                [ "Echo of Gold (Nexus)" ],
+                [ "Echo of Silent Night" ],
+                [ "Echo of Withered Soil" ],
+                [ "Hua", "2", "Old Dreams Again" ],
+                [ "Suffering Mass (Nexus)" ]
+            ],
+            [
+                [ "Griseo", "7", "Black & Dark" ],
+                [ "Grey & Empty" ],
+                [ "Red & Hot" ],
+                [ "White & Bright" ],
+                [ "Yellow & Warm" ],
+                [ "Shining Like Stars (Nexus)" ],
+                [ "Burning Like Flames" ],
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Pardofelis", "4", "Back-Curled Tail" ],
+                [ "Motto of Meow" ],
+                [ "Shiny & Valuable" ],
+                [ "Empty Dreams, Self, Set, and Joy (Nexus)" ]
+            ]
+        ],
+        "notes": "Can pick kevin's signet Artifact of the Inhibitor to supplement breach.<br><br><p>Griseo</p>If the starting eden signets don't do enough damage, pick <span>Black & Dark</span> and <span>Red & Hot</span> at start."
+    },
+    {
+        "name": "Ritual Imayoh",
+        "acr": "ri",
+        "rating": "Inferno",
+        "signets": [
+            [
+                { "sname": "kevin", "series": "1" }
+            ],
+            [
+                { "sname": "mobius", "series": "1" },
+                { "sname": "griseo", "series": "" },
+                { "sname": "su", "series": "2" }
+            ],
+            [
+                { "sname": "eden", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Gold Goblet" ],
+            [ "Burden", "Forbidden Seed" ],
+            [ "Dreamful Gold", "Home Lost" ]
+        ],
+        "support": [
+            [ [ "Valkyrie Chariot" ], [ "Lightning Empress" ] ],
+            [ [ "Valkyrie Chariot" ], [ "Blood Rose" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Prosperity", "Start" ],
+                [ "Dawn", "1st" ],
+                [ "Blossom", "2nd" ],
+                [ "Fertility", "No", "2" ],
+                [ "Torch" ]
+            ],
+            [
+                [ "Kevin", "5", "Mask of the Predator" ],
+                [ "Rochet of the Pilgrim" ],
+                [ "Blade of the Deliverer (Nexus)" ],
+                [ "Crusade of the Deliverer" ],
+                [ "Echo of the Deliverer" ]
+            ],
+            [
+                [ "Mobius", "2", "Entwined [P]" ],
+                [ "Rodent [V]" ],
+                [ "Griseo", "4", "Black & Dark" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Shining Like Stars (Nexus)" ],
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ]
+            ],
+            [
+                [ "Eden", "4", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Recitatif of Good Wine" ],
+                [ "Echo of Gold (Nexus)" ]
+            ]
+        ]
+    },
+    {
+        "name": "Silverwing N-EX",
+        "acr": "sw",
+        "rating": "Corruption",
+        "signets": [
+            [
+                { "sname": "su", "series": "2" },
+                { "sname": "hua", "series": "2" }
+            ],
+            [
+                { "sname": "eden", "series": "2" },
+                { "sname": "griseo", "series": "" },
+                { "sname": "kalpas", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Light as a Bodhi Leaf" ],
+            [ "Memory", "Gold Goblet" ],
+            [ "Empty Like Shala", "Home Lost" ]
+        ],
+        "support": [
+            [ [ "Azure Empyrea" ], [ "Valkyrie Chariot" ] ],
+            [ [ "Azure Empyrea" ], [ "Haxxor Bunny" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Phantom Plumes", "Start" ],
+                [ "Grey Falcon", "1st" ],
+                [ "Pale Feathers", "2nd", "2" ],
+                [ "Silver Eagle" ],
+                [ "Sharp Eyes", "No" ]
+            ],
+            [
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Hua", "3", "Old Dreams Again" ],
+                [ "Suffering Mass (Nexus)" ],
+                [ "Broken Dream" ]
+            ],
+            [
+                [ "Eden", "4", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Echo of Gold (Nexus)" ],
+                [ "Echo of Withered Soil" ],
+                [ "Griseo", "5", "Grey & Empty" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Shining Like Stars (Nexus)", "" ],
+                [ "Burning Like Flames", "" ],
+                [ "Kalpas", "3", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)" ]
+            ]
+        ],
+        "notes": "<p>Shining Like Stars (Nexus), Burning Like Flames</p>If lacking breach."
+    },
+    {
+        "name": "Spina Astera",
+        "acr": "spa",
+        "rating": "Corruption",
+        "signets": [
+            [
+                { "sname": "hua", "series": "2" }
+            ],
+            [
+                { "sname": "su", "series": "2" },
+                { "sname": "griseo", "series": "" },
+                { "sname": "kalpas", "series": "2" }
+            ],
+            [
+                { "sname": "eden", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Gold Goblet" ],
+            [ "Because of You", "Memory" ],
+            [ "Dreamful Gold", "Home Lost" ]
+        ],
+        "support": [
+            [ [ "Azure Empyrea" ], [ "Valkyrie Chariot" ] ],
+            [ [ "Azure Empyrea" ], [ "Blood Rose", "Midnight Absinthe" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Wild Flare", "Start" ],
+                [ "Star Quillon", "1st" ],
+                [ "Alrescha", "2nd", "2" ],
+                [ "Radiant Formation" ],
+                [ "Holy Flame", "Reinforcement" ]
+            ],
+            [
+                [ "Hua", "3", "Old Dreams Again" ],
+                [ "Suffering Mass (Nexus)" ],
+                [ "Broken Dream" ]
+            ],
+            [
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Griseo", "5", "Grey & Empty" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Shining Like Stars (Nexus)", "" ],
+                [ "Burning Like Flames", "" ],
+                [ "Kalpas", "3", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)" ]
+            ],
+            [
+                [ "Eden", "3", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Echo of Gold (Nexus)" ]
+        ]
+        ],
+        "notes": "<p>Shining Like Stars (Nexus), Burning Like Flames</p>If lacking breach."
+    },
+    {
+        "name": "Starchasm Nyx",
+        "acr": "nyx",
+        "rating": "Corruption",
+        "signets": [
+            [
+                { "sname": "kevin", "series": "1" },
+                { "sname": "sakura", "series": "1" }
+            ],
+            [
+                { "sname": "eden", "series": "2" },
+                { "sname": "griseo", "series": "" },
+                { "sname": "su", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Burden" ],
+            [ "Forget-Me-Not" ],
+            [ "Home Lost", "It Will Be Written" ]
+        ],
+        "support": [
+            [ [ "Azure Empyrea" ], [ "Lightning Empress" ] ],
+            [ [ "Azure Empyrea" ], [ "Haxxor Bunny" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Frigidity", "Start" ],
+                [ "Abyssal Gaze", "1st" ],
+                [ "Nightmare", "2nd", "2" ],
+                [ "Toxic Bath" ],
+                [ "Cocoon Break", "No" ]
+            ],
+            [
+                [ "Kevin", "5", "Artifact of the Inhibitor" ],
+                [ "Rochet of the Pilgrim" ],
+                [ "Blade of the Deliverer (Nexus)" ],
+                [ "Crusade of the Deliverer" ],
+                [ "Echo of the Deliverer" ],
+                [ "Sakura", "3", "Bountiful Blossom: Koyo" ],
+                [ "Bountiful Blossom: Ume" ],
+                [ "Setsuna Blade: Sakura ni Maku (Nexus)" ]
+            ],
+            [
+                [ "Eden", "3", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Echo of Gold (Nexus)" ],
+                [ "Griseo", "6", "Black & Dark" ],
+                [ "Blue & Cold", "" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Shining Like Stars (Nexus)", "" ],
+                [ "Burning Like Flames", "" ],
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ]
+            ]
+        ],
+        "notes": "<p>Blue & Cold</p>If picking HoD minion.<br><br><p>Shining Like Stars (Nexus), Burning Like Flames</p>If lacking breach."
+    },
+    {
+        "name": "Stygian Nymph",
+        "acr": "sn",
+        "rating": "Inferno",
+        "signets": [
+            [
+                { "sname": "kevin", "series": "1" },
+                { "sname": "sakura", "series": "1" }
+            ],
+            [
+                { "sname": "su", "series": "2" },
+                { "sname": "hua", "series": "2" },
+                { "sname": "kalpas", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Burden" ],
+            [ "Forget-Me-Not", "Light as a Bodhi Leaf" ],
+            [ "Home Lost", "Stained sakura" ]
+        ],
+        "support": [
+            [ [ "Valkyrie Chariot" ], [ "Divine Prayer" ] ],
+            [ [ "Snowy Sniper" ], [ "Blood Rose" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Vurnerable Duality", "Start" ],
+                [ "Union", "1st" ],
+                [ "Intergrowth", "2nd", "3" ],
+                [ "Kindred" ],
+                [ "Might of Duality" ]
+            ],
+            [
+                [ "Kevin", "6", "Goblet of the Giver" ],
+                [ "Mask of the Predator" ],
+                [ "Pendant of the Watcher" ],
+                [ "Blade of the Deliverer (Nexus)" ],
+                [ "Crusade of the Deliverer" ],
+                [ "Echo of the Deliverer" ],
+                [ "Sakura", "3", "Bountiful Blossom: Koyo" ],
+                [ "Bountiful Blossom: Ume" ],
+                [ "Setsuna Blade: Sakura ni Maku (Nexus)" ]
+            ],
+            [
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Hua", "2", "Lost and Found", "" ],
+                [ "Suffering Mass (Nexus)", "" ],
+                [ "Kalpas", "3", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)" ]
+            ]
+        ],
+        "notes": "Can pick Griseo's signet <span>Yellow & Warm</span> for more damage.<br><br><p>Hua</p>Pick when there' not enough breach from Kevin signets."
+    },
+    {
+        "name": "Sweet 'n' Spicy",
+        "acr": "carole",
+        "rating": "Inferno",
+        "signets": [
+            [
+                { "sname": "kevin", "series": "1" }
+            ],
+            [
+                { "sname": "kalpas", "series": "2" },
+                { "sname": "griseo", "series": "" },
+                { "sname": "sakura", "series": "2" }
+            ],
+            [
+                { "sname": "eden", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Gold Goblet" ],
+            [ "Burden", "Grey-scale Rainbow" ],
+            [ "Dreamful Gold", "Home Lost" ]
+        ],
+        "support": [
+            [ [ "Snowy Sniper" ], [ "Valkyrie Chariot" ] ],
+            [ [ "Snowy Sniper" ], [ "Blood Rose" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Revolution", "Start" ],
+                [ "Skyfall", "1st" ],
+                [ "Brake", "No", "3" ],
+                [ "Impulse" ],
+                [ "Rupture" ]
+            ],
+            [
+                [ "Kevin", "Mask of the Predator" ]
+            ],
+            [
+                [ "Kalpas", "5", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Letter, Maniac, and Ravings" ],
+                [ "Soldiers, Scissors, Spoils, and Slaughter (Nexus)" ],
+                [ "Homeland and Friends" ],
+                [ "Griseo", "4", "Blue & Cold" ],
+                [ "Grey & Empty" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Sakura", "2", "Bountiful Blossom: Koyo" ],
+                [ "Setsuna Blade: Yasha (Nexus)" ]
+            ],
+            [
+                [ "Eden", "3", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Echo of Gold (Nexus)" ]
+            ]
+        ]
+    },
+    {
+        "name": "Twilight Paladin",
+        "acr": "tp",
+        "rating": "Abstinence",
+        "signets": [
+            [
+                { "sname": "su", "series": "2" },
+                { "sname": "hua", "series": "1" }
+            ],
+            [
+                { "sname": "eden", "series": "2" },
+                { "sname": "griseo", "series": "" },
+                { "sname": "mobius", "series": "1" }
+            ]
+        ],
+        "emblem": [
+            [ "Light as a Bodhi Leaf" ],
+            [ "Burden", "Memory" ],
+            [ "Empty Like Shala", "Resolve" ]
+        ],
+        "support": [
+            [ [ "Valkyrie Chariot" ], [ "Divine Prayer" ] ],
+            [ [ "Snowy Sniper" ], [ "Blood Rose" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Penalty", "Start" ],
+                [ "Dusk", "1st" ],
+                [ "Banishment", "2nd" ],
+                [ "Radiance", "No", "2" ],
+                [ "Sanction" ]
+            ],
+            [
+                [ "Su", "5", "Motto of Asavakkhaya" ],
+                [ "Motto of Ceto-Pariya-Nana" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Motto of Pubbe-Nivasanussati" ],
+                [ "Hua", "2", "Days Gone" ],
+                [ "Lost and Found" ]
+            ],
+            [
+                [ "Eden", "3", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Echo of Gold (Nexus)" ],
+                [ "Griseo", "5", "Grey & Empty" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Shining Like Stars (Nexus)", "" ],
+                [ "Burning Like Flames", "" ],
+                [ "Mobius", "3", "Lip Poison [E]" ],
+                [ "Rodent [V]" ],
+                [ "Infinite [X] (Nexus)" ]
+            ]
+        ],
+        "notes": "If Blessing of Banishment is picked, pick Kevin's signet <span>Mask of the Predator</span> to supplement breach.<br><br><p>Shining Like Stars (Nexus), Burning Like Flames</p>If lacking breach.<br><br><p>Mobius</p>Can equip Siegfried M to reduce cross cooldown."
+    },
+    {
+        "name": "Valkyrie Bladestrike",
+        "acr": "stfu",
+        "rating": "Abstinence",
+        "signets": [
+            [
+                { "sname": "kevin", "series": "1" }
+            ],
+            [
+                { "sname": "su", "series": "2" },
+                { "sname": "sakura", "series": "2" },
+                { "sname": "griseo", "series": "" }
+            ],
+            [
+                { "sname": "eden", "series": "2" }
+            ]
+        ],
+        "emblem": [
+            [ "Burden", "Gold Goblet" ],
+            [ "Gold Goblet", "Light as a Bodhi Leaf" ],
+            [ "Dreamful Gold", "Home Lost" ]
+        ],
+        "support": [
+            [ [ "Valkyrie Chariot" ], [ "Lightning Empress" ] ],
+            [ [ "Valkyrie Chariot" ], [ "Snowy Sniper" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Current", "Start" ],
+                [ "Karma", "1st" ],
+                [ "Idea", "2nd", "2" ],
+                [ "Thunder" ],
+                [ "Zanshin", "No" ]
+            ],
+            [
+                [ "Kevin", "4", "Mask of the Predator" ],
+                [ "Rochet of the Pilgrim" ],
+                [ "Blade of the Deliverer (Nexus)" ],
+                [ "Crusade of the Deliverer" ]
+            ],
+            [
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Sakura", "2", "Bountiful Blossom: Koyo" ],
+                [ "Setsuna Blade: Yasha (Nexus)" ],
+                [ "Griseo", "5", "Grey & Empty" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Shining Like Stars (Nexus)", "" ],
+                [ "Burning Like Flames", "" ]
+            ],
+            [
+                [ "Eden", "5", "Recitatif of Birds" ],
+                [ "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Recitatif of Good Wine" ],
+                [ "Echo of Gold (Nexus)" ]
+            ]
+        ],
+        "notes": "If there' a Normal Signet of Deliverance +2 stage effect, start with Kevin sigents.<br><br><p>Shining Like Stars (Nexus), Burning Like Flames</p>If lacking breach."
+    },
+    {
+        "name": "Valkyrie Gloria",
+        "acr": "vg",
+        "rating": "Inferno",
+        "signets": [
+            [
+                { "sname": "hua", "series": "2" },
+                { "sname": "kalpas", "series": "1" }
+            ],
+            [
+                { "sname": "su", "series": "2" },
+                { "sname": "eden", "series": "2" },
+                { "sname": "griseo", "series": "" }
+            ]
+        ],
+        "emblem": [
+            [ "Memory" ],
+            [ "Light as a Bodhi Leaf", "Mad King's Mask" ],
+            [  "Falling in Past Light", "Home Lost" ]
+        ],
+        "support": [
+            [ [ "Azure Empyrea" ], [ "Lightning Empress" ] ],
+            [ [ "Azure Empyrea" ], [ "Blood Rose", "Midnight Absinthe" ] ]
+        ],
+        "signetTable": [
+            [
+                [ "Gloria", "Start" ],
+                [ "Battle Song", "1st" ],
+                [ "Triumph", "2nd" ],
+                [ "Impetus", "No", "2" ],
+                [ "Sol" ]
+            ],
+            [
+                [ "Hua", "2", "Old Dreams Again" ],
+                [ "Suffering Mass (Nexus)" ],
+                [ "Kalpas", "3", "Blade, Grave, and Scar" ],
+                [ "Bone, Blood, and Ribbon" ],
+                [ "Fight, Struggle, and Decimation (Nexus)" ]
+            ],
+            [
+                [ "Su", "4", "Motto of Asavakkhaya" ],
+                [ "Motto of Dibba-Cakkhu" ],
+                [ "Motto of Iddhi-Vidha" ],
+                [ "Dictum of Bodhi (Nexus)" ],
+                [ "Eden", "4", "Recitatif of Creeks" ],
+                [ "Recitatif of eden" ],
+                [ "Recitatif of Good Wine" ],
+                [ "Echo of Gold (Nexus)" ],
+                [ "Griseo", "4", "Black & Dark" ],
+                [ "Red & Hot" ],
+                [ "Yellow & Warm" ],
+                [ "Shining Like Stars (Nexus)" ]
+            ]
+        ]
+    }
+]
