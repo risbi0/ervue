@@ -5,17 +5,17 @@ import PageNotFound from '../views/PageNotFound.vue';
 
 const routes = [
   {
-    path: '/',
+    path: '/ervue/',
     name: 'Home',
     component: Main,
   },
   {
-    path: '/about',
+    path: '/ervue/about',
     name: 'About',
     component: About,
   },
   {
-    path: '/:catchAll(.*)*',
+    path: '/ervue/:catchAll(.*)*',
     name: "PageNotFound",
     component: PageNotFound,
   },
