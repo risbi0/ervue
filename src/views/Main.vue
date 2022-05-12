@@ -1,5 +1,5 @@
 <template>
-  <div id="cover" class="flex fh-center fv-center pos-abs hidden">
+  <div v-if="showCover" id="cover" class="flex fh-center fv-center pos-abs">
     <div id="progress-bar">
       <div id="meter"></div>
     </div>
@@ -8,7 +8,7 @@
     <h1>Elysian Realm</h1>
     <p>Recommended Builds updated for v5.6</p>
     <div id="links">
-      <router-link to="/About">About This Guide</router-link>
+      <router-link to="/ervue/About">About This Guide</router-link>
       <a href="https://rentry.org/ElysianRealm" target="_blank">Rentry Page</a>
     </div>
   </header>
@@ -21,7 +21,7 @@
 
 <script setup>
 import Accordion from '../components/Accordion.vue';
-import { isMobile } from '../main.js';
+import { isMobile, showCover } from '../main.js';
 
 function goToTop() {
   const mainContainer = document.getElementById('main-container');
@@ -45,6 +45,7 @@ function goToTop() {
 
 <style scoped>
 #cover {
+  position: fixed;
   z-index: 1;
   width: 100vw;
   height: 100vh;
