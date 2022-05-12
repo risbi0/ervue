@@ -93,7 +93,8 @@ window.onload = function() {
           document.getElementById('cover') != null &&
           index == 0) {
         document.getElementById('cover').remove();
-        body.style.backgroundImage = 'url("/ervue/src/assets/img/bg.png")';
+        body.style.backgroundImage = 'url("/ervue/assets/bg.e4e2c642.png")';
+        //body.style.backgroundImage = 'url("/ervue/src/assets/img/bg.png")';
       }
     });
   });
@@ -109,7 +110,8 @@ window.onload = function() {
   const url = [];
   let done = 0, timeout = 0, progressInPixels = 0;
   // execute immediately
-  body.style.backgroundImage = 'url("/ervue/src/assets/img/bg.png")';
+  //body.style.backgroundImage = 'url("/ervue/src/assets/img/bg.png")';
+  body.style.backgroundImage = 'url("/ervue/assets/bg.e4e2c642.png")';
   banners.forEach(banner => { banner.style.opacity = 0 });
   showCover = false;
   // execute animation after all images are loaded
